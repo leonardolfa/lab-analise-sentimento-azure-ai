@@ -8,13 +8,13 @@ O estudo prático demonstra um fluxo de trabalho simples, mas completo, que envo
 
 ## Estrutura do Repositório
 
-> `audio/`: Contém o arquivo de áudio original utilizado para a transcrição.
+`audio/`: Contém o arquivo de áudio original utilizado para a transcrição.
 
-> `images/`: Pasta com as capturas de tela que documentam as etapas do processo no Azure Speech Studio.
+`images/`: Pasta com as capturas de tela que documentam as etapas do processo no Azure Speech Studio.
 
-> `output/`: Pasta que contém os arquivos de texto e JSON gerados pelo Azure Speech Studio, documentando os resultados da transcrição e tradução.
+`output/`: Pasta que contém os arquivos de texto e JSON gerados pelo Azure Speech Studio, documentando os resultados da transcrição e tradução.
 
-> `README.md`: Este arquivo, que detalha o projeto e o processo de aprendizado.
+`README.md`: Este arquivo, que detalha o projeto e o processo de aprendizado.
 
 ---
 
