@@ -21,7 +21,7 @@ O estudo prático demonstra um fluxo de trabalho simples, mas completo, que envo
 ## Exploração Prática: Azure AI Speech Studio
 Esta seção descreve o processo de transcrição e tradução que você realizou.
 
-Fonte do Áudio: O arquivo de áudio ([WhatAICanDo.m4a](https://github.com/leonardolfa/lab-analise-sentimento-azure-ai/blob/main/audio/WhatAICanDo.m4a)) usado neste estudo foi obtido a partir de um recurso de aprendizado da Microsoft, disponível em: [Explore Speech in Azure AI Foundry portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html).
+Fonte do Áudio: O arquivo de áudio ([WhatAICanDo.m4a](https://github.com/leonardolfa/lab-analise-sentimento-azure-ai/tree/main/audio)) usado neste estudo foi obtido a partir de um recurso de aprendizado da Microsoft, disponível em: [Explore Speech in Azure AI Foundry portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html).
 
 **Fluxo de Trabalho**:
 
@@ -39,6 +39,10 @@ Em seguida, usei a ferramenta de Tradução de Fala para traduzir o texto, que t
 
 Embora o plano inicial incluísse a Análise de Sentimento, não foi possível realizar a prática no Azure AI Language Studio devido a uma limitação técnica (falta de tokens de acesso ou credenciais necessárias no momento).
 
-No entanto, a exploração do tema foi feita de forma teórica, acompanhando o tutorial da Microsoft Learn em: [Analyze text in Azure AI Foundry portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html). Além das aulas do BootCamp em Análise de Dados pela plataforma da [Digital Innovation One](https://www.dio.me).
+No entanto, a exploração do tema foi feita de forma teórica por meio de duas fontes principais:
+
+* O tutorial da Microsoft Learn, que detalha o processo no portal: Analyze text in Azure AI Foundry portal.
+
+* As aulas do BootCamp em Análise de Dados pela plataforma da [Digital Innovation One](https://www.dio.me), que abordaram o conceito e a aplicação da análise de texto.
 
 O estudo permitiu compreender o conceito da Análise de Sentimento e como ela é aplicada para classificar o humor de um texto.
