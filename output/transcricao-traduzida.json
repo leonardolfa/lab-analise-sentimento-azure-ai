@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "cf4f46793b6747d8a3b1b83502c3d666",
+        "RecognitionStatus": "Success",
+        "DisplayText": "Ai enables us to build amazing software that can improve health care, enable people to overcome physical disadvantages, empower smart infrastructure, create credible entertainment experiences and even save the planet.",
+        "Offset": 8700000,
+        "Duration": 152000000,
+        "PrimaryLanguage": {
+            "Language": "en-us",
+            "Confidence": "High"
+        },
+        "Channel": 0,
+        "Translation": {
+            "Extensions": [
+                "TranslationSourceRef",
+                "SpeechPhrase"
+            ],
+            "TranslationSourceRef": {
+                "Id": "cf4f46793b6747d8a3b1b83502c3d666",
+                "ReferenceType": "SpeechPhrase"
+            },
+            "TranslationStatus": "Success",
+            "Translations": [
+                {
+                    "Id": "acb06cc9-2945-404a-8c1a-ce9a858e0441",
+                    "DisplayText": "A IA nos permite construir um software incrível que pode melhorar os cuidados de saúde, permitir que as pessoas superem desvantagens físicas, capacitar a infraestrutura inteligente, criar experiências de entretenimento confiáveis e até salvar o planeta.",
+                    "Language": "pt"
+                }
+            ]
+        },
+        "Text": "Ai enables us to build amazing software that can improve health care, enable people to overcome physical disadvantages, empower smart infrastructure, create credible entertainment experiences and even save the planet."
+    }
