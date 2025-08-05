@@ -41,7 +41,7 @@ Embora o plano inicial incluísse a Análise de Sentimento, não foi possível r
 
 No entanto, a exploração do tema foi feita de forma teórica por meio de duas fontes principais:
 
-* O tutorial da Microsoft Learn, que detalha o processo no portal: Analyze text in Azure AI Foundry portal.
+* O tutorial da Microsoft Learn, que detalha o processo no portal: [Analyze text in Azure AI Foundry portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html).
 
 * As aulas do BootCamp em Análise de Dados pela plataforma da [Digital Innovation One](https://www.dio.me), que abordaram o conceito e a aplicação da análise de texto.
 
